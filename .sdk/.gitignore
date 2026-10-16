@@ -11,8 +11,8 @@ dist/
 dist-test/
 *.tsbuildinfo
 
-# Generated logs
-log/
+# Generated logs (anchor this so entity fixtures named "log" remain tracked)
+/log/
 *.log
 
 # OS
