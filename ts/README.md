@@ -12,11 +12,11 @@ predictable and low-friction for both humans and AI agents.
 
 ## Install
 This package is not yet published to npm. Install it from the GitHub
-release tag (`ts/vX.Y.Z`, see [Releases](https://github.com/toqeer513/resend-sdk/releases)), or from a
+release tag (`ts/vX.Y.Z`, see [Releases](https://github.com/im-Toqeer-506/resend-sdk/releases)), or from a
 clone, which carries the compiled `dist/`:
 
 ```bash
-git clone https://github.com/toqeer513/resend-sdk
+git clone https://github.com/im-Toqeer-506/resend-sdk
 npm install ./resend-sdk/ts
 ```
 
@@ -29,7 +29,7 @@ loading a specific record.
 ### 1. Create a client
 
 ```ts
-import { ResendSDK } from '@toqeer513/resend-sdk'
+import { ResendSDK } from '@im-toqeer-506/resend-sdk'
 
 const client = new ResendSDK({
   apikey: process.env.RESEND_APIKEY,
@@ -4123,7 +4123,7 @@ resend/
 Import the SDK from the package root:
 
 ```ts
-import { ResendSDK } from '@toqeer513/resend-sdk'
+import { ResendSDK } from '@im-toqeer-506/resend-sdk'
 ```
 
 ### Entity state

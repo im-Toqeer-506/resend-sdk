@@ -3,6 +3,8 @@
 Date: 16 October 2026  
 Author: M Toqeer Zia
 
+Repository: <https://github.com/im-Toqeer-506/resend-sdk>
+
 ## Outcome
 
 I generated an MIT-licensed TypeScript SDK for the Resend public API with the
@@ -95,4 +97,4 @@ There were four points of friction:
 Overall, the generator delivered a working, documented SDK quickly. The next
 production-hardening steps would be refining the inferred entity model,
 running the live contract suite with a dedicated least-privilege Resend test
-key, and publishing the package after repository ownership is confirmed.
+key, and publishing the package after npm trusted publishing is configured.

@@ -60,14 +60,14 @@ console.log(automationrun)
 
 | Language | Package | Install |
 | --- | --- | --- |
-| TypeScript | `@toqeer513/resend-sdk` | publish pending — [install from source](ts/README.md#install) |
+| TypeScript | `@im-toqeer-506/resend-sdk` | publish pending — [install from source](ts/README.md#install) |
 
 ## Quickstart
 
 ### TypeScript
 
 ```ts
-import { ResendSDK } from '@toqeer513/resend-sdk'
+import { ResendSDK } from '@im-toqeer-506/resend-sdk'
 
 const client = new ResendSDK({
   apikey: process.env.RESEND_APIKEY,

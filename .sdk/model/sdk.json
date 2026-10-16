@@ -16,7 +16,7 @@
     "kit": {
       "author": {
         "name": "M Toqeer Zia",
-        "url": ""
+        "url": "https://github.com/im-Toqeer-506"
       },
       "config": {
         "docs_order": [
@@ -17272,7 +17272,7 @@
       },
       "repo": {
         "host": "github.com",
-        "path": "toqeer513/resend-sdk"
+        "path": "im-Toqeer-506/resend-sdk"
       },
       "target": {
         "ts": {
@@ -17327,7 +17327,7 @@
             "registry": {
               "active": false,
               "name": "npm",
-              "package": "@toqeer513/resend-sdk",
+              "package": "@im-toqeer-506/resend-sdk",
               "state": "pending",
               "url": "https://registry.npmjs.org",
               "vault": {

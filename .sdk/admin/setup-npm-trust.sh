@@ -9,6 +9,6 @@ if [[ ! -f "$trust" ]]; then
   exit 1
 fi
 exec node "$trust" \
-  --repository 'toqeer513/resend-sdk' \
-  --publish '@toqeer513/resend-sdk=publish-ts.yml' \
+  --repository 'im-Toqeer-506/resend-sdk' \
+  --publish '@im-toqeer-506/resend-sdk=publish-ts.yml' \
   "$@"

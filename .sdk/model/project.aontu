@@ -28,15 +28,15 @@
 # overlay so regenerating from a newer Resend OpenAPI document preserves them.
 main: kit: author: {
   name: 'M Toqeer Zia'
-  url: ''
+  url: 'https://github.com/im-Toqeer-506'
 }
 
 main: kit: repo: {
   host: 'github.com'
-  path: 'toqeer513/resend-sdk'
+  path: 'im-Toqeer-506/resend-sdk'
 }
 
 main: kit: target: ts: publish: {
   version: '0.1.0'
-  registry: package: '@toqeer513/resend-sdk'
+  registry: package: '@im-toqeer-506/resend-sdk'
 }

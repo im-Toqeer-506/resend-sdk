@@ -8,7 +8,7 @@ it, and how this repo releases is none of their business.
 
 | target | package | workflow |
 |---|---|---|
-| `ts/` | @toqeer513/resend-sdk | `.github/workflows/publish-ts.yml` |
+| `ts/` | @im-toqeer-506/resend-sdk | `.github/workflows/publish-ts.yml` |
 
 ## How a release happens
 
@@ -66,8 +66,8 @@ required), run
 above and leaves a package that is already set up alone; for the
 `ts` target it runs:
 
-    npm trust github @toqeer513/resend-sdk \
-      --repository toqeer513/resend-sdk \
+    npm trust github @im-toqeer-506/resend-sdk \
+      --repository im-Toqeer-506/resend-sdk \
       --file publish-ts.yml \
       --allow-publish
 
@@ -78,8 +78,8 @@ difference, including a trusted publisher this repository did not ask for.
 npm, and `--otp <code>` hands npm a one-time password when it asks for one.
 An npm with no `npm trust` command is bypassed for `npx npm@latest`.
 
-`npm trust list @toqeer513/resend-sdk` shows the configuration, and
-`npm trust revoke @toqeer513/resend-sdk --id=<id>` removes one.
+`npm trust list @im-toqeer-506/resend-sdk` shows the configuration, and
+`npm trust revoke @im-toqeer-506/resend-sdk --id=<id>` removes one.
 
 **The workflow filename is part of the configuration.** Renaming
 `publish-ts.yml` breaks publishing until the npm side is updated to match.

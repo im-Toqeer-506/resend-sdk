@@ -7,7 +7,7 @@ Please report security issues to security@voxgig.com.
 Do not open public GitHub issues for suspected vulnerabilities. We aim to
 acknowledge reports within 3 business days.
 
-For non-security bugs, use the issue tracker: https://github.com/toqeer513/resend-sdk/issues
+For non-security bugs, use the issue tracker: https://github.com/im-Toqeer-506/resend-sdk/issues
 
 ## Scope
 
